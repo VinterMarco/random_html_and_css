@@ -1,1 +1,1 @@
-# to do list whit javascript
+# to do list using JavaScript, HTML and CSS.
